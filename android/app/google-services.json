@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "275413029590",
+    "project_id": "businessmanager22-974f6",
+    "storage_bucket": "businessmanager22-974f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275413029590:android:d578d8430bd578cb44af77",
+        "android_client_info": {
+          "package_name": "com.example.business_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275413029590-6qt83dc88e8u988629rjo2napn4v4dmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3UHFvK7yhBDdREvZ-kSg7zNfqaTK9LcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275413029590-6qt83dc88e8u988629rjo2napn4v4dmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
